@@ -1,4 +1,4 @@
-#Practice assignment 2
+##Practice assignment 2
 
 Create a GitHub repository called “st2195_assignment_2” that includes:
 
